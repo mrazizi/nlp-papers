@@ -90,7 +90,7 @@
 - add paper name and link
 
 # Text Summarization
-- add paper name and link
+- [Get To The Point: Summarization with Pointer-Generator Networks](https://www.aclweb.org/anthology/P17-1099/)
 
 # Reading Comprehension
 - add paper name and link
